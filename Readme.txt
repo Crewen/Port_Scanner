@@ -1,6 +1,6 @@
 PORT SCANNER
 `````````````
-Its a simple port scanner project in python for linux..;)
+Its a simple port scanner project in python on linux platform..;)
 
 usage:" python3 port_scanner.py <IP Adress> <start_port_no:> <End_port_no:> "
 
